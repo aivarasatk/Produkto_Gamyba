@@ -4,7 +4,7 @@ Product list is in an Excel file which also contains required materials.
 
 Images:
 
-![#1](screens/pradzia.png)
+![#1](screens/pradzia.p
 
 ![#2](screens/produkto_paieska.png)
 
