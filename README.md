@@ -1,6 +1,5 @@
 # Produkto_Gamyba
 Program for checking whether a pharmaceutical product can be made, that is if required materials are available.
-Product list is in an Excel file which also contains required materials.
 
 Compiled with Qt 5.10.0 MinGW 32bit
 
