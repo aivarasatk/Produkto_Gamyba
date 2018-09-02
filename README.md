@@ -5,7 +5,7 @@ Compiled with Qt 5.10.0 MinGW 32bit
 
 # Description
 
-Required files:
+Required files(not present in the repository):
 
 -Excel which contains products and components
 
