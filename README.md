@@ -9,7 +9,7 @@ Required files(not present in the repository):
 
 -Excel which contains products and components
 
--Eip file from "Rivilė" which has the latest warehouse information about component remainders
+-Eip file which has the latest warehouse information about component remainders
 
 
 What the program does:
@@ -21,8 +21,4 @@ If two or more products are used in the search, starting from the second product
 Images:
 
 ![#1](screens/pradzia.png)
-
-![#2](screens/produkto_paieska.png)
-
-![#3](screens/produkto_paieska_2.png)
 
