@@ -21,4 +21,4 @@ If two or more products are used in the search, starting from the second product
 Images:
 
 ![#1](screens/pradzia.png)
-
+![demo_output](screens/demo_output.png)
